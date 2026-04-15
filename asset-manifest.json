@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Al-Arafah_Islami_Bank_Nayanpur_Bazar/static/css/main.5411400d.css",
+    "main.js": "/Al-Arafah_Islami_Bank_Nayanpur_Bazar/static/js/main.4a2495be.js",
+    "static/media/ImoIcon.png": "/Al-Arafah_Islami_Bank_Nayanpur_Bazar/static/media/ImoIcon.06910d8fc74ef2da0270.png",
+    "static/media/EmailIcon.png": "/Al-Arafah_Islami_Bank_Nayanpur_Bazar/static/media/EmailIcon.9800434dcd844b3dca3f.png",
+    "static/media/WhatsppIcon.png": "/Al-Arafah_Islami_Bank_Nayanpur_Bazar/static/media/WhatsppIcon.0fa9689266b64db457ec.png",
+    "index.html": "/Al-Arafah_Islami_Bank_Nayanpur_Bazar/index.html",
+    "main.5411400d.css.map": "/Al-Arafah_Islami_Bank_Nayanpur_Bazar/static/css/main.5411400d.css.map",
+    "main.4a2495be.js.map": "/Al-Arafah_Islami_Bank_Nayanpur_Bazar/static/js/main.4a2495be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5411400d.css",
+    "static/js/main.4a2495be.js"
+  ]
+}
